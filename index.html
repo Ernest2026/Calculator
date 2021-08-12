@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <link rel="stylesheet" href="css/style.css">
+  
+  <title>Calculator app</title>
+
+</head>
+<body>
+<main>
+  <div class="container" role="application">
+      <div class="header">
+        <h1>calc</h1>
+        <div class="empty"></div>
+        <p>Theme</p>
+        <input type="range" name="rangename" min="10" max="30" step="10" id="rng-input" aria-label="Slide for Themes" class="slider">
+      </div>
+
+      <div class="screen">
+        <input type="text" name="inputname" id="txt-input" class="text-input" aria-label="Read screen" readonly>
+      </div>
+
+      <div class="button">
+        <div class="group">
+          <button type="button" data-input="7" class="btn btn-white">7</button>
+          <button type="button" data-input="8" class="btn btn-white">8</button>
+          <button type="button" data-input="9" class="btn btn-white">9</button>
+          <button type="button" class="btn btn-blue btn-delete">DEL</button>
+        </div>
+
+        <div class="group">
+          <button type="button" data-input="4" class="btn btn-white">4</button>
+          <button type="button" data-input="5" class="btn btn-white">5</button>
+          <button type="button" data-input="6" class="btn btn-white">6</button>
+          <button type="button" data-input="+" class="btn btn-white">+</button>
+        </div>
+
+        <div class="group">
+          <button type="button" data-input="1" class="btn btn-white">1</button>
+          <button type="button" data-input="2" class="btn btn-white">2</button>
+          <button type="button" data-input="3" class="btn btn-white">3</button>
+          <button type="button" data-input="-" class="btn btn-white">-</button>
+        </div>
+
+        <div class="group">
+          <button type="button" data-input="." class="btn btn-white">.</button>
+          <button type="button" data-input="0" class="btn btn-white">0</button>
+          <button type="button" data-input="/" class="btn btn-white">/</button>
+          <button type="button" data-input="x" class="btn btn-white">x</button>
+        </div>
+
+        <div class="group">
+          <button type="button" class="btn btn-blue btn-reset">RESET</button>
+          <button type="button" class="btn btn-red btn-equal">=</button>
+        </div>
+        
+      </div>
+
+    </div>
+</main>
+  <script src="js/index.js"></script>
+</body>
+</html>
