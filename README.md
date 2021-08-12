@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github...](https://github.com/Ernest2026/Calculator)
-- Live Site URL: [Nelify](https://j-s-p.netlify.app/calculator/)
+- Solution URL: [Calculator](https://github.com/Ernest2026/Calculator)
+- Live Site URL: [Calculator](https://c-a-l-c.netlify.app/calculator/)
 
 ## My process
 
