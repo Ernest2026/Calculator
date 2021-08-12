@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Calculator](https://github.com/Ernest2026/Calculator)
-- Live Site URL: [Calculator](https://c-a-l-c.netlify.app/calculator/)
+- Live Site URL: [Calculator](https://c-a-l-c.netlify.app/)
 
 ## My process
 
