@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github...](https://github.com/Ernest2026/JavascriptProjects/tree/main/calculator)
+- Solution URL: [Github...](https://github.com/Ernest2026/Calculator)
 - Live Site URL: [Nelify](https://j-s-p.netlify.app/calculator/)
 
 ## My process
@@ -44,4 +44,4 @@ Users should be able to:
 ## Author
 
 - Frontend Mentor - [@Ernest](https://www.frontendmentor.io/profile/Ernest2026)
-- Twitter - [@Ernest_13355](https://www.twitter.com/Ernest_13355)
+- Twitter - [@Ernest_tech](https://www.twitter.com/Ernest_tech)
