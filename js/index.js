@@ -99,7 +99,7 @@ reset.addEventListener("click", function () {
 
 equal.addEventListener("click", function () {
     if (txtInput.value.includes("x")) {
-        let newTxt = txtInput.value.replace("x", "*");
+        let newTxt = txtInput.value.replaceAll("x", "*");
         let answer = eval(newTxt);
         txtInput.value = answer;
     } else {
